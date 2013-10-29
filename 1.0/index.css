@@ -1,0 +1,17 @@
+.ks-pagetrans-view {
+	width: 100%;
+	position: relative;
+	overflow: hidden;
+	display: none;
+}
+
+.ks-pagetrans-mask {
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	top: 0;
+	left: 0;
+	background-color: #333;
+	display: none;
+	opacity: 0;
+}
